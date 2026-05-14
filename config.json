@@ -1,0 +1,4 @@
+{
+    "columns":["Fecha", "Descripcion", "Tipo", "Monto"],
+    "initial_data": []
+}
